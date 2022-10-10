@@ -125,7 +125,17 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = [
+    'Python',
+    'Plotly Dash',
+    'AWS',
+    'ROS',
+    'PostgreSQL',
+    'JavaScript',
+    'React',
+    'Node.js',
+    'Three.js',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,30 +145,27 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Eva and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is Eva and I enjoy creating things that live on the internet. I am a
+              fourth-year undergraduate at Michigan Technological University, working toward a BS in
+              Computer Science with a minor in Mathematical Sciences. I have specific interests in
+              mobile/web application development and connected/autonomous car technology. My
+              interests in computer science first started in 2016, when I became exposed to MIT's
+              Scratch platform and began building my own personal website.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              Fast forward to today, I’ve had the privilege of working at{' '}
+              <a href="https://www.mtu.edu/mtri/">a research institute</a>,{' '}
+              <a href="https://www.magna.com/">a mobility technology company</a>, and{' '}
+              <a href="https://www.3m.com/">a large corporation</a>.
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              I am also involved with Michigan Tech's Humane Interface Design Enterprise, which is
+              focused on software development and usability research. Here I have served as team
+              lead for multiple projects and am currently Vice President of the organization. In
+              addition, I was a member of the MTU Aerospace Enterprise, where I worked on the
+              communications subsystem of a nanosatellite.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
