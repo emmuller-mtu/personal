@@ -267,6 +267,9 @@ const Menu = () => {
             )}
 
             <a href="/resume.pdf" className="resume-link">
+              Cover Letter
+            </a>
+            <a href="/coverletter.pdf" className="resume-link">
               Resume
             </a>
           </nav>
