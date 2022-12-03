@@ -4,11 +4,11 @@ module.exports = {
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/emmuller-mtu',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url: 'https://www.instagram.com/evacado.16/',
     },
     // {
     //   name: 'Twitter',
@@ -16,7 +16,7 @@ module.exports = {
     // },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      url: 'https://www.linkedin.com/in/eva-muller-m/',
     },
     // {
     //   name: 'Codepen',
@@ -33,10 +33,10 @@ module.exports = {
     //   name: 'Experience',
     //   url: '/#jobs',
     // },
-    // {
-    //   name: 'Work',
-    //   url: '/#projects',
-    // },
+    {
+      name: 'Projects',
+      url: '/#projects',
+    },
     {
       name: 'Contact',
       url: '/#contact',
