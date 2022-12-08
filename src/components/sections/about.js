@@ -154,7 +154,7 @@ const About = () => {
             </p>
 
             <p>
-              Fast forward to today, I’ve had the privilege of working at{' '}
+              Since then, I’ve had the privilege of working at{' '}
               <a href="https://www.mtu.edu/mtri/">a research institute</a>,{' '}
               <a href="https://www.magna.com/">a mobility technology company</a>, and{' '}
               <a href="https://www.3m.com/">a large corporation</a>.
