@@ -6,7 +6,7 @@ external: '/../InstructionalUnit.pdf'
 tech:
   - Module 12
 company: 'Upstatement'
-showInProjects: true
+showInProjects: false
 ---
 
 Documentation outlining a lesson plan for Spotify Connected Apps.

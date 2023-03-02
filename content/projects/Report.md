@@ -6,7 +6,7 @@ external: '/../Report.pdf'
 tech:
   - Module 10
 company: 'Upstatement'
-showInProjects: true
+showInProjects: false
 ---
 
 A progress report paper on the HIDE GDLS project.

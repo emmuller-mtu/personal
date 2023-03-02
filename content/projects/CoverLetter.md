@@ -6,7 +6,7 @@ external: '/../coverletter.pdf'
 tech:
   - Module 7
 company: 'Upstatement'
-showInProjects: true
+showInProjects: false
 ---
 
 Documentation, in addition to my resume, which provides additional information about skills and experiences.

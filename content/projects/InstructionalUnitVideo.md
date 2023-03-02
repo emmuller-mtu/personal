@@ -6,7 +6,7 @@ external: 'https://youtu.be/KX6RyO0UVwA'
 tech:
   - Module 12
 company: 'Upstatement'
-showInProjects: true
+showInProjects: false
 ---
 
 Video recording for a lesson plan presentation on Spotify Connected Apps.
