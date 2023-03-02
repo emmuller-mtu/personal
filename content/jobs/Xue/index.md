@@ -1,7 +1,7 @@
 ---
 date: '2023-01-29'
 title: 'Undergraduate Research Assistant'
-company: 'Michigan Technological University'
+company: 'Dr. Xue's Lab'
 location: 'Houghton, MI'
 range: 'September 2020 - Present'
 url: ''
