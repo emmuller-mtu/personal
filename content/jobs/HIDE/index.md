@@ -3,7 +3,7 @@ date: '2023-01-29'
 title: 'Web Developer/Vice President'
 company: 'HIDE'
 location: 'Houghton, MI'
-range: 'January 2021 - Present'
+range: 'January 2021 - May 2023'
 url: ''
 ---
 

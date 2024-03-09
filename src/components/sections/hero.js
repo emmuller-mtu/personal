@@ -65,8 +65,9 @@ const Hero = () => {
     <>
       <p>
         I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I'm finishing up my degree at Michigan Technological
-        University, and am looking for a full-time position after graduation.
+        digital experiences. Currently, I am working as an IT Developer at Electronic Theatre
+        Controls, designing and developing a new customer portal. My main focus is on building
+        accessible, human-centered products.
       </p>
     </>
   );

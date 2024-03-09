@@ -3,7 +3,7 @@ date: '2023-01-29'
 title: 'Undergraduate Research Assistant'
 company: "Dr. Xue's Lab"
 location: 'Houghton, MI'
-range: 'September 2020 - Present'
+range: 'September 2020 - May 2023'
 url: ''
 ---
 
