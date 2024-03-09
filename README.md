@@ -2,7 +2,7 @@
   evammuller.com
 </h1>
 <p align="center">
-  My personal website, built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a>, hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a> and forked from [brittanychiang.com](https://brittanychiang.com).
+  My personal website, built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a>, hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a> and forked from <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a>.
 </p>
 
 ## 🛠 Installation & Set Up
