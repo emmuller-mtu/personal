@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '4'
 title: 'Build a Spotify Connected App'
 cover: './course-card.png'
 external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
@@ -9,6 +9,7 @@ tech:
   - Express
   - Spotify API
   - Styled Components
+showInFeatured: false
 ---
 
 Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.
