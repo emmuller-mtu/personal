@@ -68,46 +68,45 @@ const StyledCredit = styled.div`
   }
 `;
 
-const Footer = () => 
-// const [githubInfo, setGitHubInfo] = useState({
-//   stars: null,
-//   forks: null,
-// });
+const Footer = () => (
+  // const [githubInfo, setGitHubInfo] = useState({
+  //   stars: null,
+  //   forks: null,
+  // });
 
-// useEffect(() => {
-//   if (process.env.NODE_ENV !== 'production') {
-//     return;
-//   }
-//   fetch('https://api.github.com/repos/bchiang7/v4')
-//     .then(response => response.json())
-//     .then(json => {
-//       const { stargazers_count, forks_count } = json;
-//       setGitHubInfo({
-//         stars: stargazers_count,
-//         forks: forks_count,
-//       });
-//     })
-//     .catch(e => console.error(e));
-// }, []);
+  // useEffect(() => {
+  //   if (process.env.NODE_ENV !== 'production') {
+  //     return;
+  //   }
+  //   fetch('https://api.github.com/repos/bchiang7/v4')
+  //     .then(response => response.json())
+  //     .then(json => {
+  //       const { stargazers_count, forks_count } = json;
+  //       setGitHubInfo({
+  //         stars: stargazers_count,
+  //         forks: forks_count,
+  //       });
+  //     })
+  //     .catch(e => console.error(e));
+  // }, []);
 
-  (
-    <StyledFooter>
-      <StyledSocialLinks>
-        <ul>
-          {socialMedia &&
-            socialMedia.map(({ name, url }, i) => (
-              <li key={i}>
-                <a href={url} aria-label={name}>
-                  <Icon name={name} />
-                </a>
-              </li>
-            ))}
-        </ul>
-      </StyledSocialLinks>
+  <StyledFooter>
+    <StyledSocialLinks>
+      <ul>
+        {socialMedia &&
+          socialMedia.map(({ name, url }, i) => (
+            <li key={i}>
+              <a href={url} aria-label={name}>
+                <Icon name={name} />
+              </a>
+            </li>
+          ))}
+      </ul>
+    </StyledSocialLinks>
 
-      <StyledCredit tabindex="-1">
-        Copyright © 2022-2023 evamuller.dev. All Rights Reserved
-        {/* <a href="https://github.com/bchiang7/v4">
+    <StyledCredit tabindex="-1">
+      Copyright © 2024 evammuller.com. All Rights Reserved
+      {/* <a href="https://github.com/bchiang7/v4">
           <div>Originally Designed &amp; Built by Brittany Chiang</div>
 
           {githubInfo.stars && githubInfo.forks && (
@@ -123,11 +122,9 @@ const Footer = () =>
             </div>
           )}
         </a> */}
-      </StyledCredit>
-    </StyledFooter>
-  )
-;
-
+    </StyledCredit>
+  </StyledFooter>
+);
 // Footer.propTypes = {
 //   githubInfo: PropTypes.object,
 // };

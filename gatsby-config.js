@@ -5,7 +5,7 @@ module.exports = {
     title: 'Eva Muller',
     description:
       'Eva Muller is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://evamuller.dev', // No trailing slash allowed!
+    siteUrl: 'https://evammuller.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@bchiang7',
   },
